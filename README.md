@@ -1,5 +1,5 @@
 # Face Detection using OpenCV
-## details Steps 
+## Details Steps 
 
 - first install python https://www.python.org/downloads/
 - install python libraries https://pypi.org/
